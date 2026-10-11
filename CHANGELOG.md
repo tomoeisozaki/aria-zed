@@ -12,6 +12,10 @@
 - Settings move to `lsp.aria.settings` in Zed's settings.json. VS Code-only features (status bar and toolbar buttons, Changes view, inline diff tabs, settings export/import, Init Directory) are dropped.
 - Cleanup is a CLI: `npx aria-review-lsp --remove-adapters` or `--uninstall`.
 
+## Unreleased (VS Code version)
+
+- README: add live badges for VS Marketplace version and installs, Open VSX version and downloads, and the latest GitHub release.
+
 ## 0.17.3 - 2026-10-11
 
 - README: replace the Mermaid flowchart with a PNG diagram so "How it works" also appears on the Marketplace, Open VSX and in VS Code's extension page (they do not render Mermaid).

@@ -6,7 +6,8 @@
 
 <p align="center">
   <strong>A Review Inline Agent</strong><br>
-  Review every edit your terminal AI agent makes, right in Zed, and keep only what you accept.
+  Review every edit your terminal AI agent makes, right in Zed, and keep only what you accept.<br>
+  Using VS Code? <a href="https://marketplace.visualstudio.com/items?itemName=krispachi.aria-review">ARIA for VS Code</a> (<a href="https://open-vsx.org/extension/krispachi/aria-review">Open VSX</a>).
 </p>
 
 ---
